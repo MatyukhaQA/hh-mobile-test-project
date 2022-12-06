@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "mobile-test-wiki"
+version = "0.1.0"
+description = ""
+authors = ["matyukha <m@matyuha.ru>"]
+readme = "README.md"
+packages = [{include = "mobile_test_wiki"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+selene = "^2.0.0-beta.16"
+allure-pytest = "^2.11.0"
+appium-python-client = "^2.7.1"
+pytest = "7.2.0"
+pyproject-toml = "^0.0.10"
+
+[tool.pytest.ini_options]
+addopts = "--alluredir allure-results --clean-alluredir "
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
