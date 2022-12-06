@@ -50,7 +50,7 @@
 
 ## Уведомление в Telegram
 <p align="center">
-  <img src="resources/images/" alt="Telegram notification"/>
+  <img src="resources/images/tg_not.png" alt="Telegram notification"/>
 </p>
 
-<
+
