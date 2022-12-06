@@ -9,8 +9,8 @@
 <img width="6%" title="Pytest" src="https://github.com/MatyukhaQA/delikateska-ui-test-project/blob/master/resources/pytest.png">
 <img width="5%" title="PyCharm" src="https://github.com/MatyukhaQA/delikateska-ui-test-project/blob/master/resources/pycharm.png">
 <img width="6%" title="Selene" src="https://github.com/MatyukhaQA/delikateska-ui-test-project/blob/master/resources/selene.png">
-<img width="6%" title="Appium" src="https://github.com/MatyukhaQA/delikateska-ui-test-project/blob/master/resources/appium.svg">
-<img width="6%" title="Browserstack" src="https://github.com/MatyukhaQA/delikateska-ui-test-project/blob/master/resources/browserstack.svg">
+<img width="6%" title="Appium" src="https://github.com/MatyukhaQA/hh-mobile-test-project/blob/master/resources/appium.svg">
+<img width="6%" title="Browserstack" src="https://github.com/MatyukhaQA/hh-mobile-test-project/blob/master/resources/browserstack.svg">
 <img width="6%" title="Jenkins" src="https://github.com/MatyukhaQA/delikateska-ui-test-project/blob/master/resources/jenkins.svg">
 <img width="6%" title="Allure Report" src="https://github.com/MatyukhaQA/delikateska-ui-test-project/blob/master/resources/allure.svg">
 <img width="6%" title="Allure TestOps" src="https://github.com/MatyukhaQA/delikateska-ui-test-project/blob/master/resources/AllureTestOps.png">
