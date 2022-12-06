@@ -1,6 +1,6 @@
-# Проект по тестированию мобильного приложения [hh](https://hh.ru/)
+# Проект по тестированию мобильного приложения [hh.ru](https://hh.ru/)
 <p align="left">
-  <img width="15%" src="resources/images/hh.png" alt="hh.ru"/>
+  <img width="10%" src="resources/images/hh.png" alt="hh.ru"/>
 </p>
 
 ## В проекте используются следующие технологии и инструменты:
